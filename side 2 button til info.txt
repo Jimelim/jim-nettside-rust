@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html> 
+
+
+
+
+
+<h1 style="background-color:Lightgrey;font-family:verdana;color:tomato;border:3px Black;text-align:center;font-size:300%;"> Welcome To Rust </h1>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fPk-fyP9MFM?si=34r107_Jd6nV8-bP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lj-afvSPDrI" title="YouTube How to build" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWZkwcheNu8?feature=shared" title="YouTube How to Fight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

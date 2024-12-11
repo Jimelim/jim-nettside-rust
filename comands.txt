@@ -1,0 +1,45 @@
+
+<body style="background-color:Gray;">
+<img src="Rust main screen.jpg" alt="rust main"
+width="1500px"
+height="1000px"
+>
+
+<DOCTYPE html>
+<html>
+
+<h1 style="background-color:Lightgrey;font-family:verdana;color:tomato;border:3px Black;text-align:center;font-size:500%;"> Welcome To Rust </h1>
+
+<h2> Welcome To Rust </h2>
+<h3> Welcome To Rust </h3>
+<h4> Welcome To Rust </h4>
+<h5> Welcome To Rust </h5>
+
+<li> Litt om Rust </li>
+<P> Rust er et overlevelse spill </p> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fPk-fyP9MFM?si=34r107_Jd6nV8-bP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<style>
+body{
+     text-align: center;
+     background-image : url('Rust screen.jpg');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+</style>
+
+<a>
+<button style="color:black;font-size:200%;"> fakta om rust </button>
+</a>
+
+<a>
+<button style="color:black;font-size:200%;"> Join game </button>
+</a>
+
+<a>
+<button style="color:black;font-size:200%;"> item shop </button>
+
+</a>
